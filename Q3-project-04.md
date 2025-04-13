@@ -12,6 +12,7 @@
 
 ### Assignments 01
 - 01_basic - https://colab.research.google.com/drive/1qBLHaGnazj-GoyO4eXlb_YEGdWrbB4hv?usp=sharing
+- 02-intermediate - https://colab.research.google.com/drive/1HNKfPIT8zvCABm5Pnzc65Rr3vCSS_RUF?usp=sharing
 ---
 
 ### Assignments 1 to 6 
@@ -21,6 +22,9 @@
 - Project 4: Rock, paper, scissors Python Project-https://colab.research.google.com/drive/1zy7VqvrskaNCZJCe7rxPpLan-dtkTOti?usp=sharing
 - Project 5: https://colab.research.google.com/drive/1FfjGdU7kNU2zyUP_4-4G4SUEjbtIscXr
 - Project 6: Countdown Timer Python Project-https://colab.research.google.com/drive/1-rgqKhUut-OKq9zJt1yMn8QwPN6itJO2?usp=sharing
+- Project 7: Password Generator Python Project- https://colab.research.google.com/drive/1kSGV4BJckkpNJs9uEFxClTc9KfO8eOJo?usp=sharing
+- Project 8: BMI CALCULATOR- https://colab.research.google.com/drive/1ljEorzO2C51TTwtjLJmHLNVUDcU8DOdB?usp=sharing
+- Project 9: website-using-stramlit -https://colab.research.google.com/drive/1fw8zmjZa7LNDksu01jG1nW-wMMbiZ098?usp=sharing
 
 
   
