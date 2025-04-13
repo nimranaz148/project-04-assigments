@@ -10,12 +10,12 @@
 - 05_loops_control_flow-https://colab.research.google.com/drive/1i08L0CsZF2wkADbngoS4WmTiwa8RM-an?usp=sharing
 ---
 
-### Assignments 01
+### Assignments 01 02
 - 01_basic - https://colab.research.google.com/drive/1qBLHaGnazj-GoyO4eXlb_YEGdWrbB4hv?usp=sharing
 - 02-intermediate - https://colab.research.google.com/drive/1HNKfPIT8zvCABm5Pnzc65Rr3vCSS_RUF?usp=sharing
 ---
 
-### Assignments 1 to 6 
+### Assignments 1 to 9
 - Project 1: Mad libs Python Project-https://colab.research.google.com/drive/1l2-RsMxzQIse7evSVNYdm-Bwcnj2yVi0?usp=sharing
 - Project 2: Guess the Number Game Python Project (computer)-https://colab.research.google.com/drive/1rUVmHSdCMJqM1OBB4FtOq_FFAF0ZXvzN?usp=sharing
 - Project 3: Guess the Number Game Python Project (user)-https://colab.research.google.com/drive/1zwi-1lYaxuV1lafp_mF3w5P_Vq36HaPY?usp=sharing
